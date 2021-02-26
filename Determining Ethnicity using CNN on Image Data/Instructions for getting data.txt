@@ -1,3 +1,0 @@
-Data can be fetched from Kaggle
-
-URL: https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv
