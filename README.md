@@ -7,7 +7,7 @@ A fundamental understanding of the concepts of these algorithms and how they are
 </n>
 
 <h2>Format</h2>
-<p>The format for presentation of these algorithms is jupyter notebooks. In each of the directory, there will be a markdown file explaining in detail the dataset, the problem statement,  the algorithm selected for solution, the python packages used, implementation and results; a jupyter notebook detailing the step by step execution and a the dataset or a link to the dataset if the size of the dataset exceeds 25mb.
+<p>The format for presentation of these algorithms is jupyter notebooks. In each of the directory, there will be a notebook explaining in detail the dataset, the problem statement,  the algorithm selected for solution, the python packages used, implementation and results; a jupyter notebook detailing the step by step execution and a the dataset or a link to the dataset if the size of the dataset exceeds 25mb.
  
 </n>
 <h2>Request</h2>
